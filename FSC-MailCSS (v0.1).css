@@ -1,0 +1,46 @@
+/* Copyright 2024 Future Studios. v0.1*/
+
+.bg-dark
+{
+    background: #1E1C21;
+}
+
+.bg-light
+{
+    background: #BCDADB;
+}
+
+.text-blue
+{
+    color: #2B88DB;
+}
+
+.text-small
+{
+    font-size: 4px;
+    color: #696969;
+}
+
+.text-mid
+{
+    font-size: 6px;
+}
+
+.border
+{
+    border-color: #9E9E9E;
+    border-width: 10;
+}
+
+.btn-blue 
+{
+    background-color: #2B88DB;
+    border-color: #2B88DB;
+    color: #FFFFFF;
+}
+
+.btn-blue:hover
+{
+    background-color: #33A1FF;
+    color: #FFFFFF;
+}
