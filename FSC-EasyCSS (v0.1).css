@@ -1,0 +1,60 @@
+/* Copyright 2024 Future Studios. */
+
+h1,h2,h3,h4,h5,p,button,textarea,input,label
+{
+    margin-left: 100px;
+}
+
+.style-margin
+{
+    margin-left: 100px;
+}
+
+.style-dn-margin
+{
+    margin-left: 0px;
+}
+
+.btn-stackblitz {
+  background-color: #1389FD;
+  border-color: #1389FD;
+  color: #FFFFFF;
+}
+
+.btn-stackblitz:hover {
+  background-color: #0B4D8F;
+  color: #FFFFFF;
+}
+
+.btn-bootstrap {
+  background-color: #7531F9;
+  border-color: #7531F9;
+  color: #FFFFFF;
+}
+
+.btn-bootstrap:hover {
+  background-color: #4F21A8 !important;
+  color: #FFFFFF !important;
+}
+
+.btn-green {
+  background-color: #0FF038;
+  border-color: #0FF038;
+  color: #FFFFFF;
+}
+
+.btn-green:hover {
+  background-color: #088720;
+  color: #FFFFFF;
+}
+
+.btn-outline-stackblitz {
+  background-color: #FFFFFF;
+  border-color: #1389FD;
+  color: #1389FD;
+}
+
+.btn-outline-stackblitz:hover {
+  background-color: #1389FD;
+  color: #FFFFFF;
+}
